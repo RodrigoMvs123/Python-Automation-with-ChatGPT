@@ -2,6 +2,7 @@
 
 https://www.youtube.com/watch?v=w-X_EQ2Xva4
 
+https://raw.githubusercontent.com/RodrigoMvs123/Python-Automation-with-ChatGPT/main/README.md
 
 Python 
 Program 
