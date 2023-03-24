@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=w-X_EQ2Xva4
 
 https://raw.githubusercontent.com/RodrigoMvs123/Python-Automation-with-ChatGPT/main/README.md
 
+https://github.com/RodrigoMvs123/Python-Automation-with-ChatGPT/blame/main/README.md
+
 Python 
 Program 
 Extract headers from webpage 
